@@ -1,5 +1,6 @@
 # rajkumar.github.io
-# Raj Kumar Kilari
+# [Your Name]
+Raj Kumar Kilari
 
 ## About Me
 I am a Full Stack Java Developer with over 8 years of experience in developing multi-tier distributed and enterprise applications.
